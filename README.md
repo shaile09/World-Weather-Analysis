@@ -26,6 +26,7 @@ The map below shows the hotel names we added using another API. Using the new AP
 
 ![](image/Fig3.PNG)
 
+
 In addition, we created a data frame to help us map with a pop-up marker for each city. It included Hotel name, city, country, current weather description, and max temperature.
 
 ![](image/WeatherPy_vacation_map.png)
@@ -35,6 +36,8 @@ Below is the map layer we created displayed each city that met the criteria.
 
 ![](/image/WeatherPy_vacation_popupmap.png.png)
 
+
+# Part 3
 
 Lastly, we created a directions layer Google map that shows the direction between multiple cities. We randomly selected four cities that were close together on our map. From there we created a directions layer map using gmaps. 
 
