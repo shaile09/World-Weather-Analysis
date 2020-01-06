@@ -38,8 +38,8 @@ Below is the map layer we created displayed each city that met the criteria.
 
 Lastly, we created a directions layer Google map that shows the direction between multiple cities. We randomly selected four cities that were close together on our map. From there we created a directions layer map using gmaps. 
 
-![](image/WeatherPy_vacation_map.png)
+![](image/WeatherPy_travel_map.png.PNG)
 
-In addition, we created a marker for each of the four cities that were randoly selected.
+In addition, we created a marker for each of the four cities that were randomly selected based on proximity.
 
-![](image/WeatherPy_travel_map_markers)
+![](image/WeatherPy_travel_map_markers.png)
